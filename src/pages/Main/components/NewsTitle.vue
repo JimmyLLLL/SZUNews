@@ -212,9 +212,9 @@ export default {
 		.blankfix
 			height 1rem
 		.totalwrapper
-			margin-bottom .03rem               
-			.innerwrapper
-				background-color #ffffff
+			border-bottom 3px solid #f1f1f1     //margin-bottom .03rem               
+			.innerwrapper                                                            
+				background-color #ffffff                                        
 				padding .2rem .3rem .3rem .3rem
 				.title
 					overflow hidden

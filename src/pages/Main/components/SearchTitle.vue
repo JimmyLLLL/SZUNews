@@ -214,7 +214,7 @@ export default {
 				width 1.2rem
 				height 1.2rem
 		.totalwrapper
-			margin-bottom .03rem
+			border-bottom 3px solid #f1f1f1
 			.innerwrapper
 				background-color #ffffff
 				padding .2rem .3rem .3rem .3rem

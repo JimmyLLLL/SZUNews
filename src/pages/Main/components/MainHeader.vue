@@ -46,7 +46,7 @@ export default{
 }
 </script>
 
-<style lang="stylus" scoped="">
+<style lang="stylus" scoped>
 	.mainheader
 		background-color #FFFFFF
 		position fixed
